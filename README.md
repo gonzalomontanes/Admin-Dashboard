@@ -1,6 +1,7 @@
 
 ### [Live Site](https://admindashboardneatgrey.netlify.app/)
 
-![portfoliocoverimage](https://user-images.githubusercontent.com/92688327/146644495-ea8f0f82-63ad-48e6-810e-b08d77761f87.PNG)
+![a](https://user-images.githubusercontent.com/92688327/163788437-5064236a-1cc5-44de-b9a4-abd998650fae.png)
 
-My personal portfolio, built using React and Next.js.
+
+Admin Control Dashboard, built using HTML, CSS and JavaScripts. Dark version available by clicking the toggle.
